@@ -22,12 +22,12 @@ const Menu = props => {
 				<ul className="navbar-nav ml-auto">
 					<li className="nav-item active">
 						<a className="nav-link" href="#0">
-							หน้าแรก <span className="sr-only">(current)</span>
+							หน้าแรกนะจ๋ะ <span className="sr-only">(current)</span>
 						</a>
 					</li>
 					<li className="nav-item active">
 						<a className="nav-link" href="#4">
-							เกี่ยวกับเรา
+							เกี่ยวกับพวกเรา
 						</a>
 					</li>
 				</ul>
